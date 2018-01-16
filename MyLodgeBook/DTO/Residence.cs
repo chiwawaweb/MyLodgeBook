@@ -8,5 +8,6 @@ namespace MyLodgeBook.DTO
 {
     public class Residence
     {
+
     }
 }

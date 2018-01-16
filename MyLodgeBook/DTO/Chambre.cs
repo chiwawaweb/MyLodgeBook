@@ -11,7 +11,8 @@ namespace MyLodgeBook.DTO
         public int? Id { get; set; }
         public string Numero { get; set; }
         public string Nom { get; set; }
-        public int NombreLits { get; set; }
+        public int NombreLitsSimples { get; set; }
+        public int NombreLitsDoubles { get; set; }
         public bool Fumeur { get; set; }
         public bool Animaux { get; set; }
     }
